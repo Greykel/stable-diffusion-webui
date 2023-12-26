@@ -1,6 +1,6 @@
 @echo off
 
-set PYTHON=
+set PYTHON=py
 set GIT=
 set VENV_DIR=
 set COMMANDLINE_ARGS=
